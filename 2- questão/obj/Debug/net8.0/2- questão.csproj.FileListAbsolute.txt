@@ -1,0 +1,14 @@
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\bin\Debug\net8.0\2- questão.exe
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\bin\Debug\net8.0\2- questão.deps.json
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\bin\Debug\net8.0\2- questão.runtimeconfig.json
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\bin\Debug\net8.0\2- questão.dll
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\bin\Debug\net8.0\2- questão.pdb
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.AssemblyInfoInputs.cache
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.AssemblyInfo.cs
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.dll
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\refint\2- questão.dll
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.pdb
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\2- questão.genruntimeconfig.cache
+C:\Users\Leonardo Brum\Desktop\Testes Gupy\2- questão\obj\Debug\net8.0\ref\2- questão.dll
